@@ -54,3 +54,19 @@ matrix <user.letter>:
     #insert(user.formatted_text(letter,"title"))
     edit.right()
     insert("  ")
+state empty:
+    insert("nullspace ")
+state eagan:
+    insert('eigenbasis ')
+capital operator <user.letter> <user.letters>:
+    insert('\\text ')
+    sleep(10ms)
+    user.keys_uppercase_letters(letter)
+    user.keys_lower_case_letters(letters)
+oiler:
+    insert('e^i')
+finite field:
+    insert('\\mathbb F')
+    key(right
+
+
