@@ -82,7 +82,7 @@ symbols = {
     "vertical dots": "vdots",
     # sets
     "empty set": "emptyset",
-    "subset": "subset",
+    "subset": "subseteq",
     "superset": "supset",
     "strict subset": "subsetneq",
     "strict superset": "supsetneq",
@@ -113,6 +113,7 @@ symbols = {
     "normal text": "textrm",
     "long equivalent": "longleftrightarrow",
     "overline": "overline",
+    "circle":"circ",
     
 }
 
